@@ -4,11 +4,11 @@ This project provides an uncertain, but probable, winning outcome.
 
 Here's a short example to get you started:
 
-    ```
-    import project
-    # Get your stuff done
-    project.do_stuff()
-    ```
+```
+import project
+# Get your stuff done
+project.do_stuff()
+```
 
 ## Features
 
@@ -20,9 +20,10 @@ Here's a short example to get you started:
 
 Install $project by running:
 
-    ```
-    install project
-    ```
+```
+install project
+```
+
 ## Contributions
 
 - Issue Tracker: github.com/$project/$project/issues
