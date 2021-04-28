@@ -1,5 +1,7 @@
 # Probable Winner README
 
+Test a PR against the master branch to see what happens when the default branch changes to main.
+
 This project provides an uncertain, but probable, winning outcome.
 
 Here's a short example to get you started:
